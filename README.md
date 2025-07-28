@@ -51,8 +51,3 @@
   <img alt="Vector DB"   src="https://img.shields.io/badge/-Vector_DB-673AB7?style=for-the-badge" />
 </p>
 
-
-
-
-![Mis GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cescdovi)
-
